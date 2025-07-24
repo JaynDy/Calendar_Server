@@ -17,7 +17,7 @@ app.use((req, res, next) => {
 
 app.use(
   cors({
-    origin: "https://calendar-9sx1ufkpr-evgenias-projects-899bbbbf.vercel.app",
+    origin: "https://calendar-ivory-eight.vercel.app",
     credentials: true,
   })
 );
